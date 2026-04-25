@@ -13,7 +13,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone <ссылка на репозиторий>
+   git clone https://github.com/FelixPhloxy/predictive_maintenance_project.git
    cd predictive_maintenance_project
    ```
 
@@ -36,9 +36,4 @@
 - `presentation.py`: страница с презентацией проекта.
 - `requirements.txt`: файл с зависимостями.
 - `data/`: папка с данными.
-- `video/`: папка с видео-демонстрацией.
 - `README.md`: описание проекта.
-
-## Видео-демонстрация
-
-[Ссылка на видео](video/demo.mp4)
