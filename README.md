@@ -18,5 +18,5 @@ streamlit run app.py
 - `data/`: Папка с данными.
 - `README.md`: Описание проекта.
 ## Видео-демонстрация
-[Ссылка на видео](video/demo.mp4) или встроенное видео ниже:
+[Ссылка на видео](video/demo.mp4)
 <video src="video/demo.mp4" controls width="100%"></video>
